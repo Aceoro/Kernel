@@ -1,6 +1,7 @@
 /*
 *  kernel.c
 *  probably won't ever be anything
+*  https://www.youtube.com/watch?v=27PphV5wqdk
 */
 #include "kernel.h"
 
